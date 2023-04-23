@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <InputText />
+    <Button label="Save" />
   </div>
 </template>
